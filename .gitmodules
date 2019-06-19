@@ -1,0 +1,6 @@
+[submodule "src/Server"]
+	path = src/Server
+	url = https://github.com/aivabot/Aiva.Server.git
+[submodule "src/Shared"]
+	path = src/Shared
+	url = https://github.com/aivabot/Aiva.Shared.git
